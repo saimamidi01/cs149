@@ -1,0 +1,16 @@
+ 1253  mkdir cs1149
+ 1254  history
+ 1255  mkdir cs149
+ 1256  cd cs149
+ 1257  git init
+ 1258  git remote add origin https://github.com/saimamidi01/cs149.git
+ 1259  mkdir WS_bonus
+ 1260  cd WS_bonus
+ 1261  git add .
+ 1262  wget -O out.pdf https://tinyurl.com/yy94jltt
+ 1263  curl "https://tinyurl.com/yy94jltt" -o "out.pdf"
+ 1264  ls -latr
+ 1265  curl "https://tinyurl.com/yy94jltt" -O  "out.pdf"
+ 1266  curl "https://tinyurl.com/yy94jltt" -LO  "out.pdf"
+ 1267  curl "https://tinyurl.com/yy94jltt" -O  "out.pdf"
+ 1268  curl "https://tinyurl.com/yy94jltt" -o  "out.pdf"
